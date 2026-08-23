@@ -10,6 +10,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:Physics: WTA-40
+DESCRIPTION:Syllabus: Real depth and apparent depth\; variable R.I. and problems\; applications\; refraction at curved surfaces\; refraction formulae and problems\; lenses and lens formula\; lens maker's formula and applications\; magnification\; power of lens\; speed of image\; combination of lenses and mirrors\; silvering of lenses.
 END:VEVENT
 BEGIN:VEVENT
 UID:8ad345f0-29eb-48ff-823b-96835fe11a88@chatgpt
@@ -52,6 +53,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Chem: WTM-37
+DESCRIPTION:Syllabus: Track I - d-block and compounds: general characteristics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in stability of higher oxidation states\; electrode potentials\; chemical reactivity\; interstitial compounds\; preparation and properties of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
 UID:d69ed736-6a03-4963-b586-db561b5924b1@chatgpt
@@ -66,6 +68,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Physics: WTM-37
+DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dispersion\; dispersive power\; scattering of light and blue colour of sky\; prism problems\; optical instruments including microscopes and telescope types\; optical instrument problems.
 END:VEVENT
 BEGIN:VEVENT
 UID:c7a3020f-9113-4862-b03b-54cddcf81ed5@chatgpt
@@ -80,6 +83,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Chem: WTA-41
+DESCRIPTION:Syllabus: Track I - d-block and compounds: general characteristics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in stability of higher oxidation states\; electrode potentials\; chemical reactivity\; interstitial compounds\; preparation and properties of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
 UID:abbf3413-7000-46b9-abb0-5ef7e199ddf2@chatgpt
@@ -87,6 +91,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Math: WTA-41
+DESCRIPTION:Syllabus: Identities\; sum series problems\; miscellaneous problems\; vector algebra\; collinearity and coplanarity\; triangle and parallelogram laws\; position vectors\; section formula\; geometrical problems\; linear combination\; linearly dependent and independent vectors\; dot product and properties\; angle between vectors\; projection and component of a vector.
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e84e1d-7ec4-4855-8971-b4dce545d263@chatgpt
@@ -94,6 +99,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Physics: WTA-41
+DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dispersion\; dispersive power\; scattering of light and blue colour of sky\; prism problems\; optical instruments including microscopes and telescope types\; optical instrument problems.
 END:VEVENT
 BEGIN:VEVENT
 UID:e64106d6-c333-4610-9cb3-8aee110d8b5e@chatgpt
@@ -185,6 +191,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Chem: WTM-38
+DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthanoids electronic configuration\, oxidation states and lanthanide contraction\; general characteristics\; actinoids electronic configuration and oxidation states\; compounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface chemistry: adsorption and factors affecting adsorption\; catalyst definition\, characteristics\, homogeneous and heterogeneous catalysis\; theories of catalysis.
 END:VEVENT
 BEGIN:VEVENT
 UID:e6835979-0376-4fb3-8d52-38a8f36b4287@chatgpt
@@ -199,6 +206,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Math: WTM-38
+DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; projection and component of a vector\; cross product\; triple product\; multiple product vectors\; reciprocal vectors\; solving vector equations.
 END:VEVENT
 BEGIN:VEVENT
 UID:bad7157d-ae6e-4445-b74c-083736dc1e3f@chatgpt
@@ -213,6 +221,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Physics: WTM-38
+DESCRIPTION:Syllabus: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
 UID:7efbbb32-e493-487a-87a8-f684d96fea85@chatgpt
@@ -220,6 +229,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Chem: WTA-42
+DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthanoids electronic configuration\, oxidation states and lanthanide contraction\; general characteristics\; actinoids electronic configuration and oxidation states\; compounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface chemistry: adsorption and factors affecting adsorption\; catalyst definition\, characteristics\, homogeneous and heterogeneous catalysis\; theories of catalysis.
 END:VEVENT
 BEGIN:VEVENT
 UID:fa44d19f-34b9-46f6-88b6-375f4f8ca0f2@chatgpt
@@ -227,6 +237,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Math: WTA-42
+DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; projection and component of a vector\; cross product\; triple product\; multiple product vectors\; reciprocal vectors\; solving vector equations.
 END:VEVENT
 BEGIN:VEVENT
 UID:94452e87-6f80-4e7b-b54b-897c802f6daa@chatgpt
@@ -234,6 +245,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Physics: WTA-42
+DESCRIPTION:Syllabus: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
 UID:e448bd66-1664-4410-bd1f-94e8da989dc8@chatgpt
@@ -304,6 +316,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Math: CTM-5
+DESCRIPTION:Syllabus: Bernoulli's differential equation\; exact differential equation\; orthogonal trajectories\; geometrical applications of differential equations\; growth and decay problems\; inverse\; trigonometric functions\; vectors\; 3D geometry\; 3D lines.
 END:VEVENT
 BEGIN:VEVENT
 UID:871b0b1c-e416-4c1f-95ed-a3fe516ca3d3@chatgpt
@@ -318,6 +331,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Physics: CTM-5
+DESCRIPTION:Syllabus: Ray Optics and Optical Instruments\; Wave Optics\; Semiconductors\; Logic Gates\; Communication System.
 END:VEVENT
 BEGIN:VEVENT
 UID:09083e3a-2b92-445e-b82f-408f178ab8d6@chatgpt
@@ -332,6 +346,7 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Math: WTA-43
+DESCRIPTION:Syllabus: 3D coordinate system\; distance formula\; section formula\; direction ratios and cosines of a line\; planes and lines\; linear programming.
 END:VEVENT
 BEGIN:VEVENT
 UID:d9c69048-91aa-4430-a3bd-8d8c4b6f1128@chatgpt
@@ -339,5 +354,6 @@ DTSTAMP:20260823T100000Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Physics: WTA-43
+DESCRIPTION:Syllabus: Semiconductor\; Logic Gates complete\; Communication System.
 END:VEVENT
 END:VCALENDAR
