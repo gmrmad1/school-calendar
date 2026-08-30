@@ -16,16 +16,16 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:physics-wta-40-20260816@school-calendar
+UID:wta-40-20260816@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:Physics: WTA-40
-DESCRIPTION:Syllabus: Real depth and apparent depth\; variable R.I. and pro
- blems\; applications\; refraction at curved surfaces\; refraction formulae
-  and problems\; lenses and lens formula\; lens maker's formula and applica
- tions\; magnification\; power of lens\; speed of image\; combination of le
- nses and mirrors\; silvering of lenses.
+DTSTART;TZID=Asia/Kolkata:20260816T090000
+DTEND;TZID=Asia/Kolkata:20260816T120000
+SUMMARY:WTA-40
+DESCRIPTION:Syllabus: Physics: Real depth and apparent depth; variable R.I.
+  and problems; applications; refraction at curved surfaces; refraction for
+ mulae and problems; lenses and lens formula; lens maker's formula and appl
+ ications; magnification; power of lens; speed of image; combination of len
+ ses and mirrors; silvering of lenses.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-math1@school-calendar
@@ -340,8 +340,7 @@ UID:20260820-last@school-calendar
 DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260820T161500
 DTEND;TZID=Asia/Kolkata:20260820T170000
-SUMMARY:Physics
-DESCRIPTION:Syllabus: Wave Optics: Interference
+SUMMARY:Informatics Practices
 END:VEVENT
 BEGIN:VEVENT
 UID:20260821-math1@school-calendar
@@ -419,8 +418,7 @@ UID:20260821-last@school-calendar
 DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260821T161500
 DTEND;TZID=Asia/Kolkata:20260821T170000
-SUMMARY:Physics
-DESCRIPTION:Syllabus: YDS Applications
+SUMMARY:Informatics Practices
 END:VEVENT
 BEGIN:VEVENT
 UID:chem-wtm-37-20260822@school-calendar
@@ -436,15 +434,20 @@ DESCRIPTION:Syllabus: Track I - d-block and compounds: general characterist
  storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
-UID:physics-wtm-37-20260822@school-calendar
+UID:wtm-37-20260822@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Physics: WTM-37
-DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dis
- persion\; dispersive power\; scattering of light and blue colour of sky\; 
- prism problems\; optical instruments including microscopes and telescope t
- ypes\; optical instrument problems.
+DTSTART;TZID=Asia/Kolkata:20260822T090000
+DTEND;TZID=Asia/Kolkata:20260822T120000
+SUMMARY:WTM-37
+DESCRIPTION:Syllabus: Physics: Refraction and dispersion through prism; ang
+ ular dispersion; dispersive power; scattering of light and blue colour of 
+ sky; prism problems; optical instruments including microscopes and telesco
+ pe types; optical instrument problems.\nChemistry: Track I - d-block and c
+ ompounds: general characteristics; oxidation states; colour; magnetic prop
+ erties; alloys; trends in stability of higher oxidation states; electrode 
+ potentials; chemical reactivity; interstitial compounds; preparation and p
+ roperties of KMnO4 and K2Cr2O7. Track II - concentration cells; dry cells;
+  fuel cells; lead storage battery; numericals; corrosion; passivity.
 END:VEVENT
 BEGIN:VEVENT
 UID:chem-wta-41-20260823@school-calendar
@@ -460,28 +463,25 @@ DESCRIPTION:Syllabus: Track I - d-block and compounds: general characterist
  storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
-UID:math-wta-41-20260823@school-calendar
+UID:wta-41-20260823@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Math: WTA-41
-DESCRIPTION:Syllabus: Identities\; sum series problems\; miscellaneous prob
- lems\; vector algebra\; collinearity and coplanarity\; triangle and parall
- elogram laws\; position vectors\; section formula\; geometrical problems\;
-  linear combination\; linearly dependent and independent vectors\; dot pro
- duct and properties\; angle between vectors\; projection and component of 
- a vector.
-END:VEVENT
-BEGIN:VEVENT
-UID:physics-wta-41-20260823@school-calendar
-DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Physics: WTA-41
-DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dis
- persion\; dispersive power\; scattering of light and blue colour of sky\; 
- prism problems\; optical instruments including microscopes and telescope t
- ypes\; optical instrument problems.
+DTSTART;TZID=Asia/Kolkata:20260823T090000
+DTEND;TZID=Asia/Kolkata:20260823T120000
+SUMMARY:WTA-41
+DESCRIPTION:Syllabus: Chemistry: Track I - d-block and compounds: general c
+ haracteristics; oxidation states; colour; magnetic properties; alloys; tre
+ nds in stability of higher oxidation states; electrode potentials; chemica
+ l reactivity; interstitial compounds; preparation and properties of KMnO4 
+ and K2Cr2O7. Track II - concentration cells; dry cells; fuel cells; lead s
+ torage battery; numericals; corrosion; passivity.\nMath: Identities; sum s
+ eries problems; miscellaneous problems; vector algebra; collinearity and c
+ oplanarity; triangle and parallelogram laws; position vectors; section for
+ mula; geometrical problems; linear combination; linearly dependent and ind
+ ependent vectors; dot product and properties; angle between vectors; proje
+ ction and component of a vector.\nPhysics: Refraction and dispersion throu
+ gh prism; angular dispersion; dispersive power; scattering of light and bl
+ ue colour of sky; prism problems; optical instruments including microscope
+ s and telescope types; optical instrument problems.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260824-math1@school-calendar
@@ -738,8 +738,7 @@ UID:20260827-last@school-calendar
 DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260827T161500
 DTEND;TZID=Asia/Kolkata:20260827T170000
-SUMMARY:Physics
-DESCRIPTION:Syllabus: Semiconductor Devices
+SUMMARY:Informatics Practices
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-raksha-bandhan-20260828@school-calendar
@@ -765,22 +764,23 @@ DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthano
  catalysis.
 END:VEVENT
 BEGIN:VEVENT
-UID:math-wtm-38-20260829@school-calendar
+UID:wtm-38-20260829@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Math: WTM-38
-DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; 
- projection and component of a vector\; cross product\; triple product\; mu
- ltiple product vectors\; reciprocal vectors\; solving vector equations.
-END:VEVENT
-BEGIN:VEVENT
-UID:physics-wtm-38-20260829@school-calendar
-DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Physics: WTM-38
-DESCRIPTION:Syllabus: Wave Optics.
+DTSTART;TZID=Asia/Kolkata:20260829T090000
+DTEND;TZID=Asia/Kolkata:20260829T120000
+SUMMARY:WTM-38
+DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
+ ; lanthanoids electronic configuration, oxidation states and lanthanide co
+ ntraction; actinoids electronic configuration and oxidation states; compou
+ nds of Sn and Pb; oxides, chlorides and sulphates of Fe2+, Cu2+ and Zn2+; 
+ silver oxide, silver nitrate and silver thiosulphate; complex compounds; t
+ ypes of ligands; Werner's theory; EAN rule; VBT. Track II - surface chemis
+ try: adsorption and factors affecting adsorption; catalyst definition, cha
+ racteristics, homogeneous and heterogeneous catalysis; theories of catalys
+ is.\nMath: Dot product and properties; angle between vectors; projection a
+ nd component of a vector; cross product; triple product; multiple product 
+ vectors; reciprocal vectors; solving vector equations.\nPhysics: Wave Opti
+ cs.
 END:VEVENT
 BEGIN:VEVENT
 UID:chem-wta-42-20260830@school-calendar
@@ -799,22 +799,23 @@ DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthano
  catalysis.
 END:VEVENT
 BEGIN:VEVENT
-UID:math-wta-42-20260830@school-calendar
+UID:wta-42-20260830@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Math: WTA-42
-DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; 
- projection and component of a vector\; cross product\; triple product\; mu
- ltiple product vectors\; reciprocal vectors\; solving vector equations.
-END:VEVENT
-BEGIN:VEVENT
-UID:physics-wta-42-20260830@school-calendar
-DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Physics: WTA-42
-DESCRIPTION:Syllabus: Wave Optics.
+DTSTART;TZID=Asia/Kolkata:20260830T090000
+DTEND;TZID=Asia/Kolkata:20260830T120000
+SUMMARY:WTA-42
+DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
+ ; lanthanoids electronic configuration, oxidation states and lanthanide co
+ ntraction; actinoids electronic configuration and oxidation states; compou
+ nds of Sn and Pb; oxides, chlorides and sulphates of Fe2+, Cu2+ and Zn2+; 
+ silver oxide, silver nitrate and silver thiosulphate; complex compounds; t
+ ypes of ligands; Werner's theory; EAN rule; VBT. Track II - surface chemis
+ try: adsorption and factors affecting adsorption; catalyst definition, cha
+ racteristics, homogeneous and heterogeneous catalysis; theories of catalys
+ is.\nMath: Dot product and properties; angle between vectors; projection a
+ nd component of a vector; cross product; triple product; multiple product 
+ vectors; reciprocal vectors; solving vector equations.\nPhysics: Wave Opti
+ cs.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-math1@school-calendar
@@ -1137,8 +1138,7 @@ UID:20260903-last@school-calendar
 DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260903T161500
 DTEND;TZID=Asia/Kolkata:20260903T170000
-SUMMARY:Physics
-DESCRIPTION:Syllabus: Logic Gates
+SUMMARY:Informatics Practices
 END:VEVENT
 BEGIN:VEVENT
 UID:holiday-krishnastami-20260904@school-calendar
@@ -1148,42 +1148,26 @@ DTEND;VALUE=DATE:20260905
 SUMMARY:Holiday: Krishnastami
 END:VEVENT
 BEGIN:VEVENT
-UID:math-ctm-5-20260905@school-calendar
+UID:ctm-5-20260905@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Math: CTM-5
-DESCRIPTION:Syllabus: Bernoulli's differential equation\; exact differentia
- l equation\; orthogonal trajectories\; geometrical applications of differe
- ntial equations\; growth and decay problems\; inverse\; trigonometric func
- tions\; vectors\; 3D geometry\; 3D lines.
+DTSTART;TZID=Asia/Kolkata:20260905T090000
+DTEND;TZID=Asia/Kolkata:20260905T120000
+SUMMARY:CTM-5
+DESCRIPTION:Syllabus: Math: Bernoulli's differential equation; exact differ
+ ential equation; orthogonal trajectories; geometrical applications of diff
+ erential equations; growth and decay problems; inverse; trigonometric func
+ tions; vectors; 3D geometry; 3D lines.\nPhysics: Ray Optics and Optical In
+ struments; Wave Optics; Semiconductors; Logic Gates; Communication System.
 END:VEVENT
 BEGIN:VEVENT
-UID:physics-ctm-5-20260905@school-calendar
+UID:wta-43-20260906@school-calendar
 DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Physics: CTM-5
-DESCRIPTION:Syllabus: Ray Optics and Optical Instruments\; Wave Optics\; Se
- miconductors\; Logic Gates\; Communication System.
-END:VEVENT
-BEGIN:VEVENT
-UID:math-wta-43-20260906@school-calendar
-DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:Math: WTA-43
-DESCRIPTION:Syllabus: 3D coordinate system\; distance formula\; section for
- mula\; direction ratios and cosines of a line\; planes and lines\; linear 
- programming.
-END:VEVENT
-BEGIN:VEVENT
-UID:physics-wta-43-20260906@school-calendar
-DTSTAMP:20260830T083000Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:Physics: WTA-43
-DESCRIPTION:Syllabus: Semiconductor\; Logic Gates complete\; Communication 
- System.
+DTSTART;TZID=Asia/Kolkata:20260906T090000
+DTEND;TZID=Asia/Kolkata:20260906T120000
+SUMMARY:WTA-43
+DESCRIPTION:Syllabus: Math: 3D coordinate system; distance formula; section
+  formula; direction ratios and cosines of a line; planes and lines; linear
+  programming.\nPhysics: Semiconductor; Logic Gates complete; Communication
+  System.
 END:VEVENT
 END:VCALENDAR
