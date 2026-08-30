@@ -443,8 +443,6 @@ DESCRIPTION:Syllabus: Physics: Refraction and dispersion through prism\; an
  gular dispersion\; dispersive power\; scattering of light and blue colour 
  of sky\; prism problems\; optical instruments including microscopes and te
  lescope types\; optical instrument problems.
-
-
 Chemistry: Track I - d-block and compounds: general characteristics\; oxida
  tion states\; colour\; magnetic properties\; alloys\; trends in stability 
  of higher oxidation states\; electrode potentials\; chemical reactivity\; 
@@ -477,15 +475,11 @@ DESCRIPTION:Syllabus: Chemistry: Track I - d-block and compounds: general c
  chemical reactivity\; interstitial compounds\; preparation and properties 
  of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel ce
  lls\; lead storage battery\; numericals\; corrosion\; passivity.
-
-
 Math: Identities\; sum series problems\; miscellaneous problems\; vector al
  gebra\; collinearity and coplanarity\; triangle and parallelogram laws\; p
  osition vectors\; section formula\; geometrical problems\; linear combinat
  ion\; linearly dependent and independent vectors\; dot product and propert
  ies\; angle between vectors\; projection and component of a vector.
-
-
 Physics: Refraction and dispersion through prism\; angular dispersion\; dis
  persive power\; scattering of light and blue colour of sky\; prism problem
  s\; optical instruments including microscopes and telescope types\; optica
@@ -786,13 +780,9 @@ DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
  surface chemistry: adsorption and factors affecting adsorption\; catalyst 
  definition\, characteristics\, homogeneous and heterogeneous catalysis\; t
  heories of catalysis.
-
-
 Math: Dot product and properties\; angle between vectors\; projection and c
  omponent of a vector\; cross product\; triple product\; multiple product v
  ectors\; reciprocal vectors\; solving vector equations.
-
-
 Physics: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
@@ -826,13 +816,9 @@ DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
  surface chemistry: adsorption and factors affecting adsorption\; catalyst 
  definition\, characteristics\, homogeneous and heterogeneous catalysis\; t
  heories of catalysis.
-
-
 Math: Dot product and properties\; angle between vectors\; projection and c
  omponent of a vector\; cross product\; triple product\; multiple product v
  ectors\; reciprocal vectors\; solving vector equations.
-
-
 Physics: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
@@ -1175,8 +1161,6 @@ DESCRIPTION:Syllabus: Math: Bernoulli's differential equation\; exact diffe
  rential equation\; orthogonal trajectories\; geometrical applications of d
  ifferential equations\; growth and decay problems\; inverse\; trigonometri
  c functions\; vectors\; 3D geometry\; 3D lines.
-
-
 Physics: Ray Optics and Optical Instruments\; Wave Optics\; Semiconductors\
  ; Logic Gates\; Communication System.
 END:VEVENT
@@ -1189,8 +1173,6 @@ SUMMARY:WTA-43
 DESCRIPTION:Syllabus: Math: 3D coordinate system\; distance formula\; secti
  on formula\; direction ratios and cosines of a line\; planes and lines\; l
  inear programming.
-
-
 Physics: Semiconductor\; Logic Gates complete\; Communication System.
 END:VEVENT
 END:VCALENDAR
