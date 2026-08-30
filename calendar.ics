@@ -21,11 +21,11 @@ DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260816T090000
 DTEND;TZID=Asia/Kolkata:20260816T120000
 SUMMARY:WTA-40
-DESCRIPTION:Syllabus: Physics: Real depth and apparent depth; variable R.I.
-  and problems; applications; refraction at curved surfaces; refraction for
- mulae and problems; lenses and lens formula; lens maker's formula and appl
- ications; magnification; power of lens; speed of image; combination of len
- ses and mirrors; silvering of lenses.
+DESCRIPTION:Syllabus: Physics: Real depth and apparent depth\; variable R.I
+ . and problems\; applications\; refraction at curved surfaces\; refraction
+  formulae and problems\; lenses and lens formula\; lens maker's formula an
+ d applications\; magnification\; power of lens\; speed of image\; combinat
+ ion of lenses and mirrors\; silvering of lenses.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-math1@school-calendar
@@ -439,15 +439,18 @@ DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260822T090000
 DTEND;TZID=Asia/Kolkata:20260822T120000
 SUMMARY:WTM-37
-DESCRIPTION:Syllabus: Physics: Refraction and dispersion through prism; ang
- ular dispersion; dispersive power; scattering of light and blue colour of 
- sky; prism problems; optical instruments including microscopes and telesco
- pe types; optical instrument problems.\nChemistry: Track I - d-block and c
- ompounds: general characteristics; oxidation states; colour; magnetic prop
- erties; alloys; trends in stability of higher oxidation states; electrode 
- potentials; chemical reactivity; interstitial compounds; preparation and p
- roperties of KMnO4 and K2Cr2O7. Track II - concentration cells; dry cells;
-  fuel cells; lead storage battery; numericals; corrosion; passivity.
+DESCRIPTION:Syllabus: Physics: Refraction and dispersion through prism\; an
+ gular dispersion\; dispersive power\; scattering of light and blue colour 
+ of sky\; prism problems\; optical instruments including microscopes and te
+ lescope types\; optical instrument problems.
+
+
+Chemistry: Track I - d-block and compounds: general characteristics\; oxida
+ tion states\; colour\; magnetic properties\; alloys\; trends in stability 
+ of higher oxidation states\; electrode potentials\; chemical reactivity\; 
+ interstitial compounds\; preparation and properties of KMnO4 and K2Cr2O7. 
+ Track II - concentration cells\; dry cells\; fuel cells\; lead storage bat
+ tery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
 UID:chem-wta-41-20260823@school-calendar
@@ -469,19 +472,24 @@ DTSTART;TZID=Asia/Kolkata:20260823T090000
 DTEND;TZID=Asia/Kolkata:20260823T120000
 SUMMARY:WTA-41
 DESCRIPTION:Syllabus: Chemistry: Track I - d-block and compounds: general c
- haracteristics; oxidation states; colour; magnetic properties; alloys; tre
- nds in stability of higher oxidation states; electrode potentials; chemica
- l reactivity; interstitial compounds; preparation and properties of KMnO4 
- and K2Cr2O7. Track II - concentration cells; dry cells; fuel cells; lead s
- torage battery; numericals; corrosion; passivity.\nMath: Identities; sum s
- eries problems; miscellaneous problems; vector algebra; collinearity and c
- oplanarity; triangle and parallelogram laws; position vectors; section for
- mula; geometrical problems; linear combination; linearly dependent and ind
- ependent vectors; dot product and properties; angle between vectors; proje
- ction and component of a vector.\nPhysics: Refraction and dispersion throu
- gh prism; angular dispersion; dispersive power; scattering of light and bl
- ue colour of sky; prism problems; optical instruments including microscope
- s and telescope types; optical instrument problems.
+ haracteristics\; oxidation states\; colour\; magnetic properties\; alloys\
+ ; trends in stability of higher oxidation states\; electrode potentials\; 
+ chemical reactivity\; interstitial compounds\; preparation and properties 
+ of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel ce
+ lls\; lead storage battery\; numericals\; corrosion\; passivity.
+
+
+Math: Identities\; sum series problems\; miscellaneous problems\; vector al
+ gebra\; collinearity and coplanarity\; triangle and parallelogram laws\; p
+ osition vectors\; section formula\; geometrical problems\; linear combinat
+ ion\; linearly dependent and independent vectors\; dot product and propert
+ ies\; angle between vectors\; projection and component of a vector.
+
+
+Physics: Refraction and dispersion through prism\; angular dispersion\; dis
+ persive power\; scattering of light and blue colour of sky\; prism problem
+ s\; optical instruments including microscopes and telescope types\; optica
+ l instrument problems.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260824-math1@school-calendar
@@ -770,17 +778,22 @@ DTSTART;TZID=Asia/Kolkata:20260829T090000
 DTEND;TZID=Asia/Kolkata:20260829T120000
 SUMMARY:WTM-38
 DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
- ; lanthanoids electronic configuration, oxidation states and lanthanide co
- ntraction; actinoids electronic configuration and oxidation states; compou
- nds of Sn and Pb; oxides, chlorides and sulphates of Fe2+, Cu2+ and Zn2+; 
- silver oxide, silver nitrate and silver thiosulphate; complex compounds; t
- ypes of ligands; Werner's theory; EAN rule; VBT. Track II - surface chemis
- try: adsorption and factors affecting adsorption; catalyst definition, cha
- racteristics, homogeneous and heterogeneous catalysis; theories of catalys
- is.\nMath: Dot product and properties; angle between vectors; projection a
- nd component of a vector; cross product; triple product; multiple product 
- vectors; reciprocal vectors; solving vector equations.\nPhysics: Wave Opti
- cs.
+ \; lanthanoids electronic configuration\, oxidation states and lanthanide 
+ contraction\; actinoids electronic configuration and oxidation states\; co
+ mpounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and
+  Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex co
+ mpounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - 
+ surface chemistry: adsorption and factors affecting adsorption\; catalyst 
+ definition\, characteristics\, homogeneous and heterogeneous catalysis\; t
+ heories of catalysis.
+
+
+Math: Dot product and properties\; angle between vectors\; projection and c
+ omponent of a vector\; cross product\; triple product\; multiple product v
+ ectors\; reciprocal vectors\; solving vector equations.
+
+
+Physics: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
 UID:chem-wta-42-20260830@school-calendar
@@ -805,17 +818,22 @@ DTSTART;TZID=Asia/Kolkata:20260830T090000
 DTEND;TZID=Asia/Kolkata:20260830T120000
 SUMMARY:WTA-42
 DESCRIPTION:Syllabus: Chemistry: Track I - f-block: general characteristics
- ; lanthanoids electronic configuration, oxidation states and lanthanide co
- ntraction; actinoids electronic configuration and oxidation states; compou
- nds of Sn and Pb; oxides, chlorides and sulphates of Fe2+, Cu2+ and Zn2+; 
- silver oxide, silver nitrate and silver thiosulphate; complex compounds; t
- ypes of ligands; Werner's theory; EAN rule; VBT. Track II - surface chemis
- try: adsorption and factors affecting adsorption; catalyst definition, cha
- racteristics, homogeneous and heterogeneous catalysis; theories of catalys
- is.\nMath: Dot product and properties; angle between vectors; projection a
- nd component of a vector; cross product; triple product; multiple product 
- vectors; reciprocal vectors; solving vector equations.\nPhysics: Wave Opti
- cs.
+ \; lanthanoids electronic configuration\, oxidation states and lanthanide 
+ contraction\; actinoids electronic configuration and oxidation states\; co
+ mpounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and
+  Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex co
+ mpounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - 
+ surface chemistry: adsorption and factors affecting adsorption\; catalyst 
+ definition\, characteristics\, homogeneous and heterogeneous catalysis\; t
+ heories of catalysis.
+
+
+Math: Dot product and properties\; angle between vectors\; projection and c
+ omponent of a vector\; cross product\; triple product\; multiple product v
+ ectors\; reciprocal vectors\; solving vector equations.
+
+
+Physics: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-math1@school-calendar
@@ -1153,11 +1171,14 @@ DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260905T090000
 DTEND;TZID=Asia/Kolkata:20260905T120000
 SUMMARY:CTM-5
-DESCRIPTION:Syllabus: Math: Bernoulli's differential equation; exact differ
- ential equation; orthogonal trajectories; geometrical applications of diff
- erential equations; growth and decay problems; inverse; trigonometric func
- tions; vectors; 3D geometry; 3D lines.\nPhysics: Ray Optics and Optical In
- struments; Wave Optics; Semiconductors; Logic Gates; Communication System.
+DESCRIPTION:Syllabus: Math: Bernoulli's differential equation\; exact diffe
+ rential equation\; orthogonal trajectories\; geometrical applications of d
+ ifferential equations\; growth and decay problems\; inverse\; trigonometri
+ c functions\; vectors\; 3D geometry\; 3D lines.
+
+
+Physics: Ray Optics and Optical Instruments\; Wave Optics\; Semiconductors\
+ ; Logic Gates\; Communication System.
 END:VEVENT
 BEGIN:VEVENT
 UID:wta-43-20260906@school-calendar
@@ -1165,9 +1186,11 @@ DTSTAMP:20260830T083000Z
 DTSTART;TZID=Asia/Kolkata:20260906T090000
 DTEND;TZID=Asia/Kolkata:20260906T120000
 SUMMARY:WTA-43
-DESCRIPTION:Syllabus: Math: 3D coordinate system; distance formula; section
-  formula; direction ratios and cosines of a line; planes and lines; linear
-  programming.\nPhysics: Semiconductor; Logic Gates complete; Communication
-  System.
+DESCRIPTION:Syllabus: Math: 3D coordinate system\; distance formula\; secti
+ on formula\; direction ratios and cosines of a line\; planes and lines\; l
+ inear programming.
+
+
+Physics: Semiconductor\; Logic Gates complete\; Communication System.
 END:VEVENT
 END:VCALENDAR
