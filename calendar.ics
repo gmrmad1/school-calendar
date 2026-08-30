@@ -4,356 +4,1182 @@ PRODID:-//ChatGPT//Sri Chaitanya Schedule//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Sri Chaitanya Schedule
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:871f4ec8-7dbc-47cc-b4d4-a2e56a6e9bc5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wta-40-20260816@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260816
 DTEND;VALUE=DATE:20260817
 SUMMARY:Physics: WTA-40
-DESCRIPTION:Syllabus: Real depth and apparent depth\; variable R.I. and problems\; applications\; refraction at curved surfaces\; refraction formulae and problems\; lenses and lens formula\; lens maker's formula and applications\; magnification\; power of lens\; speed of image\; combination of lenses and mirrors\; silvering of lenses.
+DESCRIPTION:Syllabus: Real depth and apparent depth\; variable R.I. and pro
+ blems\; applications\; refraction at curved surfaces\; refraction formulae
+  and problems\; lenses and lens formula\; lens maker's formula and applica
+ tions\; magnification\; power of lens\; speed of image\; combination of le
+ nses and mirrors\; silvering of lenses.
 END:VEVENT
 BEGIN:VEVENT
-UID:8ad345f0-29eb-48ff-823b-96835fe11a88@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
+UID:20260817-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T080000
+DTEND;TZID=Asia/Kolkata:20260817T094000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T094000
+DTEND;TZID=Asia/Kolkata:20260817T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T095500
+DTEND;TZID=Asia/Kolkata:20260817T113500
 SUMMARY:Physics: Prism Problems
+DESCRIPTION:Topic: Prism Problems
 END:VEVENT
 BEGIN:VEVENT
-UID:ffb7b1dd-ceab-4351-b1a9-2bb60de0ee1e@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
+UID:20260817-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T113500
+DTEND;TZID=Asia/Kolkata:20260817T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T122500
+DTEND;TZID=Asia/Kolkata:20260817T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T130000
+DTEND;TZID=Asia/Kolkata:20260817T135000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T135000
+DTEND;TZID=Asia/Kolkata:20260817T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T143500
+DTEND;TZID=Asia/Kolkata:20260817T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T152000
+DTEND;TZID=Asia/Kolkata:20260817T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T153000
+DTEND;TZID=Asia/Kolkata:20260817T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260817-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260817T161500
+DTEND;TZID=Asia/Kolkata:20260817T170000
+SUMMARY:Physics: Prism Problems
+DESCRIPTION:Topic: Prism Problems
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T080000
+DTEND;TZID=Asia/Kolkata:20260818T094000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T094000
+DTEND;TZID=Asia/Kolkata:20260818T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T095500
+DTEND;TZID=Asia/Kolkata:20260818T113500
 SUMMARY:Physics: Microscopes
+DESCRIPTION:Topic: Microscopes
 END:VEVENT
 BEGIN:VEVENT
-UID:69a6c6af-efe3-4bd4-b71a-f331be195da9@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
+UID:20260818-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T113500
+DTEND;TZID=Asia/Kolkata:20260818T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T122500
+DTEND;TZID=Asia/Kolkata:20260818T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T130000
+DTEND;TZID=Asia/Kolkata:20260818T135000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T135000
+DTEND;TZID=Asia/Kolkata:20260818T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T143500
+DTEND;TZID=Asia/Kolkata:20260818T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T152000
+DTEND;TZID=Asia/Kolkata:20260818T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T153000
+DTEND;TZID=Asia/Kolkata:20260818T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260818-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260818T161500
+DTEND;TZID=Asia/Kolkata:20260818T170000
+SUMMARY:Physics: Microscopes
+DESCRIPTION:Topic: Microscopes
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T080000
+DTEND;TZID=Asia/Kolkata:20260819T094000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T094000
+DTEND;TZID=Asia/Kolkata:20260819T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T095500
+DTEND;TZID=Asia/Kolkata:20260819T113500
 SUMMARY:Physics: Telescopes
+DESCRIPTION:Topic: Telescopes
 END:VEVENT
 BEGIN:VEVENT
-UID:7351ea4c-0cde-424b-b89a-0d70916383ea@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
+UID:20260819-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T113500
+DTEND;TZID=Asia/Kolkata:20260819T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T122500
+DTEND;TZID=Asia/Kolkata:20260819T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T130000
+DTEND;TZID=Asia/Kolkata:20260819T135000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T135000
+DTEND;TZID=Asia/Kolkata:20260819T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T143500
+DTEND;TZID=Asia/Kolkata:20260819T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T152000
+DTEND;TZID=Asia/Kolkata:20260819T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T153000
+DTEND;TZID=Asia/Kolkata:20260819T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260819-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260819T161500
+DTEND;TZID=Asia/Kolkata:20260819T170000
+SUMMARY:Physics: Telescopes
+DESCRIPTION:Topic: Telescopes
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T080000
+DTEND;TZID=Asia/Kolkata:20260820T094000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T094000
+DTEND;TZID=Asia/Kolkata:20260820T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T095500
+DTEND;TZID=Asia/Kolkata:20260820T113500
 SUMMARY:Physics: Wave Optics: Interference
+DESCRIPTION:Topic: Wave Optics: Interference
 END:VEVENT
 BEGIN:VEVENT
-UID:65f1f646-bece-45d6-b248-6ce8e0dbd806@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
+UID:20260820-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T113500
+DTEND;TZID=Asia/Kolkata:20260820T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T122500
+DTEND;TZID=Asia/Kolkata:20260820T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T130000
+DTEND;TZID=Asia/Kolkata:20260820T135000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T135000
+DTEND;TZID=Asia/Kolkata:20260820T143500
+SUMMARY:PE
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T143500
+DTEND;TZID=Asia/Kolkata:20260820T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T152000
+DTEND;TZID=Asia/Kolkata:20260820T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T153000
+DTEND;TZID=Asia/Kolkata:20260820T161500
+SUMMARY:Laboratory
+END:VEVENT
+BEGIN:VEVENT
+UID:20260820-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260820T161500
+DTEND;TZID=Asia/Kolkata:20260820T170000
+SUMMARY:IP
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T080000
+DTEND;TZID=Asia/Kolkata:20260821T094000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T094000
+DTEND;TZID=Asia/Kolkata:20260821T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T095500
+DTEND;TZID=Asia/Kolkata:20260821T113500
 SUMMARY:Physics: YDS Applications
+DESCRIPTION:Topic: YDS Applications
 END:VEVENT
 BEGIN:VEVENT
-UID:dea4c882-479c-4bc8-82d3-1232178bd5a4@chatgpt
-DTSTAMP:20260823T100000Z
+UID:20260821-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T113500
+DTEND;TZID=Asia/Kolkata:20260821T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T122500
+DTEND;TZID=Asia/Kolkata:20260821T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T130000
+DTEND;TZID=Asia/Kolkata:20260821T135000
+SUMMARY:Math
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T135000
+DTEND;TZID=Asia/Kolkata:20260821T143500
+SUMMARY:PE
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T143500
+DTEND;TZID=Asia/Kolkata:20260821T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T152000
+DTEND;TZID=Asia/Kolkata:20260821T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T153000
+DTEND;TZID=Asia/Kolkata:20260821T161500
+SUMMARY:Laboratory
+END:VEVENT
+BEGIN:VEVENT
+UID:20260821-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260821T161500
+DTEND;TZID=Asia/Kolkata:20260821T170000
+SUMMARY:IP
+END:VEVENT
+BEGIN:VEVENT
+UID:chem-wtm-37-20260822@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Chem: WTM-37
-DESCRIPTION:Syllabus: Track I - d-block and compounds: general characteristics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in stability of higher oxidation states\; electrode potentials\; chemical reactivity\; interstitial compounds\; preparation and properties of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead storage battery\; numericals\; corrosion\; passivity.
+DESCRIPTION:Syllabus: Track I - d-block and compounds: general characterist
+ ics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in
+  stability of higher oxidation states\; electrode potentials\; chemical re
+ activity\; interstitial compounds\; preparation and properties of KMnO4 an
+ d K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead 
+ storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
-UID:d69ed736-6a03-4963-b586-db561b5924b1@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Chem: f-Block & Compounds
-END:VEVENT
-BEGIN:VEVENT
-UID:bdf2565d-fc9d-46b5-a064-9fd4caac68c2@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wtm-37-20260822@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Physics: WTM-37
-DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dispersion\; dispersive power\; scattering of light and blue colour of sky\; prism problems\; optical instruments including microscopes and telescope types\; optical instrument problems.
+DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dis
+ persion\; dispersive power\; scattering of light and blue colour of sky\; 
+ prism problems\; optical instruments including microscopes and telescope t
+ ypes\; optical instrument problems.
 END:VEVENT
 BEGIN:VEVENT
-UID:c7a3020f-9113-4862-b03b-54cddcf81ed5@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Physics: YDS Applications
-END:VEVENT
-BEGIN:VEVENT
-UID:8e87bfb3-6639-41a9-b54f-ab3b512c36c5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:chem-wta-41-20260823@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Chem: WTA-41
-DESCRIPTION:Syllabus: Track I - d-block and compounds: general characteristics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in stability of higher oxidation states\; electrode potentials\; chemical reactivity\; interstitial compounds\; preparation and properties of KMnO4 and K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead storage battery\; numericals\; corrosion\; passivity.
+DESCRIPTION:Syllabus: Track I - d-block and compounds: general characterist
+ ics\; oxidation states\; colour\; magnetic properties\; alloys\; trends in
+  stability of higher oxidation states\; electrode potentials\; chemical re
+ activity\; interstitial compounds\; preparation and properties of KMnO4 an
+ d K2Cr2O7. Track II - concentration cells\; dry cells\; fuel cells\; lead 
+ storage battery\; numericals\; corrosion\; passivity.
 END:VEVENT
 BEGIN:VEVENT
-UID:abbf3413-7000-46b9-abb0-5ef7e199ddf2@chatgpt
-DTSTAMP:20260823T100000Z
+UID:math-wta-41-20260823@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Math: WTA-41
-DESCRIPTION:Syllabus: Identities\; sum series problems\; miscellaneous problems\; vector algebra\; collinearity and coplanarity\; triangle and parallelogram laws\; position vectors\; section formula\; geometrical problems\; linear combination\; linearly dependent and independent vectors\; dot product and properties\; angle between vectors\; projection and component of a vector.
+DESCRIPTION:Syllabus: Identities\; sum series problems\; miscellaneous prob
+ lems\; vector algebra\; collinearity and coplanarity\; triangle and parall
+ elogram laws\; position vectors\; section formula\; geometrical problems\;
+  linear combination\; linearly dependent and independent vectors\; dot pro
+ duct and properties\; angle between vectors\; projection and component of 
+ a vector.
 END:VEVENT
 BEGIN:VEVENT
-UID:e0e84e1d-7ec4-4855-8971-b4dce545d263@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wta-41-20260823@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Physics: WTA-41
-DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dispersion\; dispersive power\; scattering of light and blue colour of sky\; prism problems\; optical instruments including microscopes and telescope types\; optical instrument problems.
+DESCRIPTION:Syllabus: Refraction and dispersion through prism\; angular dis
+ persion\; dispersive power\; scattering of light and blue colour of sky\; 
+ prism problems\; optical instruments including microscopes and telescope t
+ ypes\; optical instrument problems.
 END:VEVENT
 BEGIN:VEVENT
-UID:e64106d6-c333-4610-9cb3-8aee110d8b5e@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:Chem: Coordination Compounds / Adsorption
-END:VEVENT
-BEGIN:VEVENT
-UID:ad7740da-1d54-4d6c-9083-76f314882c8d@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
+UID:20260824-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T080000
+DTEND;TZID=Asia/Kolkata:20260824T094000
 SUMMARY:Math: Cross Product
+DESCRIPTION:Topic: Cross Product
 END:VEVENT
 BEGIN:VEVENT
-UID:e85e8bdd-21ed-402b-a0ee-764e9a2b1c5d@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
+UID:20260824-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T094000
+DTEND;TZID=Asia/Kolkata:20260824T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T095500
+DTEND;TZID=Asia/Kolkata:20260824T113500
 SUMMARY:Physics: Diffraction
+DESCRIPTION:Topic: Diffraction
 END:VEVENT
 BEGIN:VEVENT
-UID:44d00531-ef99-424e-a6ef-de0acfeaa785@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Chem: Ligands / Catalysis
+UID:20260824-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T113500
+DTEND;TZID=Asia/Kolkata:20260824T122500
+SUMMARY:Chem: Coordination Compounds / Adsorption
+DESCRIPTION:Topic: Coordination Compounds / Adsorption
 END:VEVENT
 BEGIN:VEVENT
-UID:edbeea9c-293c-431e-8774-12ea35dca64f@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
+UID:20260824-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T122500
+DTEND;TZID=Asia/Kolkata:20260824T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T130000
+DTEND;TZID=Asia/Kolkata:20260824T135000
+SUMMARY:Math: Cross Product
+DESCRIPTION:Topic: Cross Product
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T135000
+DTEND;TZID=Asia/Kolkata:20260824T143500
+SUMMARY:Chem: Coordination Compounds / Adsorption
+DESCRIPTION:Topic: Coordination Compounds / Adsorption
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T143500
+DTEND;TZID=Asia/Kolkata:20260824T152000
+SUMMARY:Chem: Coordination Compounds / Adsorption
+DESCRIPTION:Topic: Coordination Compounds / Adsorption
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T152000
+DTEND;TZID=Asia/Kolkata:20260824T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T153000
+DTEND;TZID=Asia/Kolkata:20260824T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260824T161500
+DTEND;TZID=Asia/Kolkata:20260824T170000
+SUMMARY:Physics: Diffraction
+DESCRIPTION:Topic: Diffraction
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T080000
+DTEND;TZID=Asia/Kolkata:20260825T094000
 SUMMARY:Math: Triple Product
+DESCRIPTION:Topic: Triple Product
 END:VEVENT
 BEGIN:VEVENT
-UID:c33c2e5f-82df-4a28-a163-20628f784f6e@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
+UID:20260825-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T094000
+DTEND;TZID=Asia/Kolkata:20260825T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T095500
+DTEND;TZID=Asia/Kolkata:20260825T113500
 SUMMARY:Physics: Polarisation
+DESCRIPTION:Topic: Polarisation
 END:VEVENT
 BEGIN:VEVENT
-UID:7846388c-fb75-4ef7-a164-3e4d194b0ef5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:20260825-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T113500
+DTEND;TZID=Asia/Kolkata:20260825T122500
+SUMMARY:Chem: Ligands / Catalysis
+DESCRIPTION:Topic: Ligands / Catalysis
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T122500
+DTEND;TZID=Asia/Kolkata:20260825T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T130000
+DTEND;TZID=Asia/Kolkata:20260825T135000
+SUMMARY:Math: Triple Product
+DESCRIPTION:Topic: Triple Product
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T135000
+DTEND;TZID=Asia/Kolkata:20260825T143500
+SUMMARY:Chem: Ligands / Catalysis
+DESCRIPTION:Topic: Ligands / Catalysis
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T143500
+DTEND;TZID=Asia/Kolkata:20260825T152000
+SUMMARY:Chem: Ligands / Catalysis
+DESCRIPTION:Topic: Ligands / Catalysis
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T152000
+DTEND;TZID=Asia/Kolkata:20260825T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T153000
+DTEND;TZID=Asia/Kolkata:20260825T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260825T161500
+DTEND;TZID=Asia/Kolkata:20260825T170000
+SUMMARY:Physics: Polarisation
+DESCRIPTION:Topic: Polarisation
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-milan-un-nabi-20260826@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Holiday: Milan-Un-Nabi
 END:VEVENT
 BEGIN:VEVENT
-UID:1e0b2da9-fc9a-4d80-8003-ad7754ee63ab@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Chem: Werner Theory\, EAN\, VBT
-END:VEVENT
-BEGIN:VEVENT
-UID:8b58b948-70ac-441d-9980-d07522388c75@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
+UID:20260827-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T080000
+DTEND;TZID=Asia/Kolkata:20260827T094000
 SUMMARY:Math: Reciprocal Vectors
+DESCRIPTION:Topic: Reciprocal Vectors
 END:VEVENT
 BEGIN:VEVENT
-UID:73f7377a-32aa-49db-b186-79706216e921@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
+UID:20260827-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T094000
+DTEND;TZID=Asia/Kolkata:20260827T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T095500
+DTEND;TZID=Asia/Kolkata:20260827T113500
 SUMMARY:Physics: Semiconductor Devices
+DESCRIPTION:Topic: Semiconductor Devices
 END:VEVENT
 BEGIN:VEVENT
-UID:b51a0210-0ee6-4f2c-9a7f-4630a3b1f6b5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:20260827-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T113500
+DTEND;TZID=Asia/Kolkata:20260827T122500
+SUMMARY:Chem: Werner Theory / EAN / VBT
+DESCRIPTION:Topic: Werner Theory / EAN / VBT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T122500
+DTEND;TZID=Asia/Kolkata:20260827T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T130000
+DTEND;TZID=Asia/Kolkata:20260827T135000
+SUMMARY:Math: Reciprocal Vectors
+DESCRIPTION:Topic: Reciprocal Vectors
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T135000
+DTEND;TZID=Asia/Kolkata:20260827T143500
+SUMMARY:PE
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T143500
+DTEND;TZID=Asia/Kolkata:20260827T152000
+SUMMARY:Chem: Werner Theory / EAN / VBT
+DESCRIPTION:Topic: Werner Theory / EAN / VBT
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T152000
+DTEND;TZID=Asia/Kolkata:20260827T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T153000
+DTEND;TZID=Asia/Kolkata:20260827T161500
+SUMMARY:Laboratory
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260827T161500
+DTEND;TZID=Asia/Kolkata:20260827T170000
+SUMMARY:IP
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-raksha-bandhan-20260828@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Holiday: Raksha Bandhan
 END:VEVENT
 BEGIN:VEVENT
-UID:f938ec90-c618-4812-9ec9-50479061ecb3@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Chem: Crystal Field Theory
-END:VEVENT
-BEGIN:VEVENT
-UID:684b2418-5a65-4470-9a77-7af92af8e5c5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:chem-wtm-38-20260829@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Chem: WTM-38
-DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthanoids electronic configuration\, oxidation states and lanthanide contraction\; general characteristics\; actinoids electronic configuration and oxidation states\; compounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface chemistry: adsorption and factors affecting adsorption\; catalyst definition\, characteristics\, homogeneous and heterogeneous catalysis\; theories of catalysis.
+DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthano
+ ids electronic configuration\, oxidation states and lanthanide contraction
+ \; actinoids electronic configuration and oxidation states\; compounds of 
+ Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; sil
+ ver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; t
+ ypes of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface che
+ mistry: adsorption and factors affecting adsorption\; catalyst definition\
+ , characteristics\, homogeneous and heterogeneous catalysis\; theories of 
+ catalysis.
 END:VEVENT
 BEGIN:VEVENT
-UID:e6835979-0376-4fb3-8d52-38a8f36b4287@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Math: 3D Geometry
-END:VEVENT
-BEGIN:VEVENT
-UID:81c760d8-aebd-4cd7-ab7a-0be6c180e181@chatgpt
-DTSTAMP:20260823T100000Z
+UID:math-wtm-38-20260829@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Math: WTM-38
-DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; projection and component of a vector\; cross product\; triple product\; multiple product vectors\; reciprocal vectors\; solving vector equations.
+DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; 
+ projection and component of a vector\; cross product\; triple product\; mu
+ ltiple product vectors\; reciprocal vectors\; solving vector equations.
 END:VEVENT
 BEGIN:VEVENT
-UID:bad7157d-ae6e-4445-b74c-083736dc1e3f@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Physics: Diode Rectifier
-END:VEVENT
-BEGIN:VEVENT
-UID:f6216415-bc47-4173-a676-e90d6448b8e5@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wtm-38-20260829@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Physics: WTM-38
 DESCRIPTION:Syllabus: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
-UID:7efbbb32-e493-487a-87a8-f684d96fea85@chatgpt
-DTSTAMP:20260823T100000Z
+UID:chem-wta-42-20260830@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Chem: WTA-42
-DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthanoids electronic configuration\, oxidation states and lanthanide contraction\; general characteristics\; actinoids electronic configuration and oxidation states\; compounds of Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; silver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; types of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface chemistry: adsorption and factors affecting adsorption\; catalyst definition\, characteristics\, homogeneous and heterogeneous catalysis\; theories of catalysis.
+DESCRIPTION:Syllabus: Track I - f-block: general characteristics\; lanthano
+ ids electronic configuration\, oxidation states and lanthanide contraction
+ \; actinoids electronic configuration and oxidation states\; compounds of 
+ Sn and Pb\; oxides\, chlorides and sulphates of Fe2+\, Cu2+ and Zn2+\; sil
+ ver oxide\, silver nitrate and silver thiosulphate\; complex compounds\; t
+ ypes of ligands\; Werner's theory\; EAN rule\; VBT. Track II - surface che
+ mistry: adsorption and factors affecting adsorption\; catalyst definition\
+ , characteristics\, homogeneous and heterogeneous catalysis\; theories of 
+ catalysis.
 END:VEVENT
 BEGIN:VEVENT
-UID:fa44d19f-34b9-46f6-88b6-375f4f8ca0f2@chatgpt
-DTSTAMP:20260823T100000Z
+UID:math-wta-42-20260830@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Math: WTA-42
-DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; projection and component of a vector\; cross product\; triple product\; multiple product vectors\; reciprocal vectors\; solving vector equations.
+DESCRIPTION:Syllabus: Dot product and properties\; angle between vectors\; 
+ projection and component of a vector\; cross product\; triple product\; mu
+ ltiple product vectors\; reciprocal vectors\; solving vector equations.
 END:VEVENT
 BEGIN:VEVENT
-UID:94452e87-6f80-4e7b-b54b-897c802f6daa@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wta-42-20260830@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Physics: WTA-42
 DESCRIPTION:Syllabus: Wave Optics.
 END:VEVENT
 BEGIN:VEVENT
-UID:e448bd66-1664-4410-bd1f-94e8da989dc8@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
+UID:20260831-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T080000
+DTEND;TZID=Asia/Kolkata:20260831T094000
 SUMMARY:Math: 3D Geometry
+DESCRIPTION:Topic: 3D Geometry
 END:VEVENT
 BEGIN:VEVENT
-UID:ae406d6b-22e5-4eae-849f-a20db1cf5d8f@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:Physics: Photodiode\, LED\, Solar Cell\, Transistor
+UID:20260831-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T094000
+DTEND;TZID=Asia/Kolkata:20260831T095500
+SUMMARY:Break
 END:VEVENT
 BEGIN:VEVENT
-UID:165db6c2-7df6-4852-8b48-6d3af751ded7@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
+UID:20260831-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T095500
+DTEND;TZID=Asia/Kolkata:20260831T113500
+SUMMARY:Physics: Photodiode / LED / Solar Cell / Transistor
+DESCRIPTION:Topic: Photodiode / LED / Solar Cell / Transistor
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T113500
+DTEND;TZID=Asia/Kolkata:20260831T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T122500
+DTEND;TZID=Asia/Kolkata:20260831T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T130000
+DTEND;TZID=Asia/Kolkata:20260831T135000
+SUMMARY:Math: 3D Geometry
+DESCRIPTION:Topic: 3D Geometry
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T135000
+DTEND;TZID=Asia/Kolkata:20260831T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T143500
+DTEND;TZID=Asia/Kolkata:20260831T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T152000
+DTEND;TZID=Asia/Kolkata:20260831T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T153000
+DTEND;TZID=Asia/Kolkata:20260831T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260831-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260831T161500
+DTEND;TZID=Asia/Kolkata:20260831T170000
+SUMMARY:Physics: Photodiode / LED / Solar Cell / Transistor
+DESCRIPTION:Topic: Photodiode / LED / Solar Cell / Transistor
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T080000
+DTEND;TZID=Asia/Kolkata:20260901T094000
 SUMMARY:Math: Planes & Lines
+DESCRIPTION:Topic: Planes & Lines
 END:VEVENT
 BEGIN:VEVENT
-UID:34683658-c057-4b24-a24b-fa90bcc62882@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:Physics: Photodiode\, LED\, Solar Cell\, Transistor
+UID:20260901-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T094000
+DTEND;TZID=Asia/Kolkata:20260901T095500
+SUMMARY:Break
 END:VEVENT
 BEGIN:VEVENT
-UID:b385d7fb-3770-4efe-9055-2afbb63de320@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
+UID:20260901-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T095500
+DTEND;TZID=Asia/Kolkata:20260901T113500
+SUMMARY:Physics: Photodiode / LED / Solar Cell / Transistor
+DESCRIPTION:Topic: Photodiode / LED / Solar Cell / Transistor
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T113500
+DTEND;TZID=Asia/Kolkata:20260901T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T122500
+DTEND;TZID=Asia/Kolkata:20260901T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T130000
+DTEND;TZID=Asia/Kolkata:20260901T135000
 SUMMARY:Math: Planes & Lines
+DESCRIPTION:Topic: Planes & Lines
 END:VEVENT
 BEGIN:VEVENT
-UID:667352a9-43a2-4973-8fde-75020b650d12@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
+UID:20260901-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T135000
+DTEND;TZID=Asia/Kolkata:20260901T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T143500
+DTEND;TZID=Asia/Kolkata:20260901T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T152000
+DTEND;TZID=Asia/Kolkata:20260901T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T153000
+DTEND;TZID=Asia/Kolkata:20260901T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260901-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260901T161500
+DTEND;TZID=Asia/Kolkata:20260901T170000
+SUMMARY:Physics: Photodiode / LED / Solar Cell / Transistor
+DESCRIPTION:Topic: Photodiode / LED / Solar Cell / Transistor
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T080000
+DTEND;TZID=Asia/Kolkata:20260902T094000
+SUMMARY:Math: Planes & Lines
+DESCRIPTION:Topic: Planes & Lines
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T094000
+DTEND;TZID=Asia/Kolkata:20260902T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T095500
+DTEND;TZID=Asia/Kolkata:20260902T113500
 SUMMARY:Physics: Logic Gates
+DESCRIPTION:Topic: Logic Gates
 END:VEVENT
 BEGIN:VEVENT
-UID:c88a4177-f4f4-4ada-a5a8-26301afd2237@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
+UID:20260902-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T113500
+DTEND;TZID=Asia/Kolkata:20260902T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T122500
+DTEND;TZID=Asia/Kolkata:20260902T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T130000
+DTEND;TZID=Asia/Kolkata:20260902T135000
+SUMMARY:Math: Planes & Lines
+DESCRIPTION:Topic: Planes & Lines
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T135000
+DTEND;TZID=Asia/Kolkata:20260902T143500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T143500
+DTEND;TZID=Asia/Kolkata:20260902T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T152000
+DTEND;TZID=Asia/Kolkata:20260902T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T153000
+DTEND;TZID=Asia/Kolkata:20260902T161500
+SUMMARY:English
+END:VEVENT
+BEGIN:VEVENT
+UID:20260902-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260902T161500
+DTEND;TZID=Asia/Kolkata:20260902T170000
+SUMMARY:Physics: Logic Gates
+DESCRIPTION:Topic: Logic Gates
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-math1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T080000
+DTEND;TZID=Asia/Kolkata:20260903T094000
 SUMMARY:Math: Linear Programming
+DESCRIPTION:Topic: Linear Programming
 END:VEVENT
 BEGIN:VEVENT
-UID:15038c68-136f-4362-97f4-3b48cd776ed6@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
+UID:20260903-break1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T094000
+DTEND;TZID=Asia/Kolkata:20260903T095500
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-physics1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T095500
+DTEND;TZID=Asia/Kolkata:20260903T113500
 SUMMARY:Physics: Logic Gates
+DESCRIPTION:Topic: Logic Gates
 END:VEVENT
 BEGIN:VEVENT
-UID:ffe52689-9d17-4467-8648-c87751367c5d@chatgpt
-DTSTAMP:20260823T100000Z
+UID:20260903-chem1@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T113500
+DTEND;TZID=Asia/Kolkata:20260903T122500
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-lunch@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T122500
+DTEND;TZID=Asia/Kolkata:20260903T130000
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-math2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T130000
+DTEND;TZID=Asia/Kolkata:20260903T135000
+SUMMARY:Math: Linear Programming
+DESCRIPTION:Topic: Linear Programming
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-mid@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T135000
+DTEND;TZID=Asia/Kolkata:20260903T143500
+SUMMARY:PE
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-chem2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T143500
+DTEND;TZID=Asia/Kolkata:20260903T152000
+SUMMARY:Chem
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-break2@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T152000
+DTEND;TZID=Asia/Kolkata:20260903T153000
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-late@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T153000
+DTEND;TZID=Asia/Kolkata:20260903T161500
+SUMMARY:Laboratory
+END:VEVENT
+BEGIN:VEVENT
+UID:20260903-last@school-calendar
+DTSTAMP:20260830T083000Z
+DTSTART;TZID=Asia/Kolkata:20260903T161500
+DTEND;TZID=Asia/Kolkata:20260903T170000
+SUMMARY:IP
+END:VEVENT
+BEGIN:VEVENT
+UID:holiday-krishnastami-20260904@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Holiday: Krishnastami
 END:VEVENT
 BEGIN:VEVENT
-UID:0a29019c-cc29-4736-a7eb-dd70ec620c5e@chatgpt
-DTSTAMP:20260823T100000Z
+UID:math-ctm-5-20260905@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Math: CTM-5
-DESCRIPTION:Syllabus: Bernoulli's differential equation\; exact differential equation\; orthogonal trajectories\; geometrical applications of differential equations\; growth and decay problems\; inverse\; trigonometric functions\; vectors\; 3D geometry\; 3D lines.
+DESCRIPTION:Syllabus: Bernoulli's differential equation\; exact differentia
+ l equation\; orthogonal trajectories\; geometrical applications of differe
+ ntial equations\; growth and decay problems\; inverse\; trigonometric func
+ tions\; vectors\; 3D geometry\; 3D lines.
 END:VEVENT
 BEGIN:VEVENT
-UID:871b0b1c-e416-4c1f-95ed-a3fe516ca3d3@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Math: Linear Programming
-END:VEVENT
-BEGIN:VEVENT
-UID:d7795f53-b87e-4eb1-8c2f-1753c81f717d@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-ctm-5-20260905@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Physics: CTM-5
-DESCRIPTION:Syllabus: Ray Optics and Optical Instruments\; Wave Optics\; Semiconductors\; Logic Gates\; Communication System.
+DESCRIPTION:Syllabus: Ray Optics and Optical Instruments\; Wave Optics\; Se
+ miconductors\; Logic Gates\; Communication System.
 END:VEVENT
 BEGIN:VEVENT
-UID:09083e3a-2b92-445e-b82f-408f178ab8d6@chatgpt
-DTSTAMP:20260823T100000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Physics: Communication System
-END:VEVENT
-BEGIN:VEVENT
-UID:89de03cc-b5db-415b-9637-979375598400@chatgpt
-DTSTAMP:20260823T100000Z
+UID:math-wta-43-20260906@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Math: WTA-43
-DESCRIPTION:Syllabus: 3D coordinate system\; distance formula\; section formula\; direction ratios and cosines of a line\; planes and lines\; linear programming.
+DESCRIPTION:Syllabus: 3D coordinate system\; distance formula\; section for
+ mula\; direction ratios and cosines of a line\; planes and lines\; linear 
+ programming.
 END:VEVENT
 BEGIN:VEVENT
-UID:d9c69048-91aa-4430-a3bd-8d8c4b6f1128@chatgpt
-DTSTAMP:20260823T100000Z
+UID:physics-wta-43-20260906@school-calendar
+DTSTAMP:20260830T083000Z
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 SUMMARY:Physics: WTA-43
-DESCRIPTION:Syllabus: Semiconductor\; Logic Gates complete\; Communication System.
+DESCRIPTION:Syllabus: Semiconductor\; Logic Gates complete\; Communication 
+ System.
 END:VEVENT
 END:VCALENDAR
